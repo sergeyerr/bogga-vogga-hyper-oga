@@ -122,3 +122,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data
+sample_submission.csv
+specs.csv
+test.csv
+train.csv
+train_labels.csv
